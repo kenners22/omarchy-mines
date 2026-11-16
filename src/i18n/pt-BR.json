@@ -1,0 +1,14 @@
+{
+  "Intermediate": "Intermediário",
+  "Beginner, Intermediate, Expert, Custom": "Principiante, Intermediário, Especialista, Personalizado",
+  "Open a cell, or chord on a number": "Abrir uma casa, ou limpar ao redor de um número",
+  "Chord: open everything around a number whose flags are all down": "Limpar: abrir tudo ao redor de um número com todas as bandeiras postas",
+  "With the mouse: left click opens a cell or chords on a number, right click flags, and middle click chords. Keys act on the cell under the pointer too.": "Com o mouse: o clique esquerdo abre uma casa ou limpa ao redor de um número, o clique direito põe uma bandeira e o clique do meio limpa. As teclas também atuam na casa sob o ponteiro.",
+  "Custom shows the board as it is set now: %1 × %2 with %3 mines. Every custom board keeps its own times.": "Personalizado mostra o tabuleiro como está definido agora: %1 × %2 com %3 minas. Cada tabuleiro personalizado guarda seus próprios tempos.",
+  "Quit in the middle of a game?": "Sair no meio de um jogo?",
+  "The game in play will be left unfinished.": "O jogo em andamento ficará sem terminar.",
+  "Keep playing": "Continuar jogando",
+  "Press P or click to carry on": "Pressione P ou clique para continuar",
+  "Best times couldn't be read. The old file is kept as %1.": "Não foi possível ler os melhores tempos. O arquivo antigo fica guardado como %1.",
+  "A mine-clearing puzzle for Omarchy.": "Um quebra-cabeça de limpar minas para o Omarchy."
+}
