@@ -1,6 +1,8 @@
 # Mines
 
-![Mines, an Intermediate game half cleared](screenshot.png)
+![Mines, an Intermediate game half cleared](docs/mid-game.png)
+
+![A mine hit, in another Omarchy theme](docs/mine-hit.png)
 
 A mine-clearing puzzle for [Omarchy](https://omarchy.org). Open every cell
 that has no mine under it; a number says how many mines touch that cell.
